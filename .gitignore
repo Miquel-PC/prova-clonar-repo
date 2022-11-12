@@ -58,3 +58,6 @@ firebase.secrets.json
 
 # Sentry
 sentry.properties
+
+#propio
+pocketcast/
